@@ -1,18 +1,18 @@
 # npc-summoner
 
-Summon any NPC (merchant, bank, broker) from anywhere.
+Convoca a cualquier NPC (comerciante, banco, broker) desde cualquier lugar.
 
-## Commands
+## Comandos
 
-Toolbox(/8) | Command description
+Toolbox(/8) | Descripción del comando
 --- | ---
 **broker** | Trade Broker
-**bank** | Bank
-**gbank** | Guild Bank
-**pbank** | Special Storage (Pet Bank)
-**cbank** | Wardrobe (Costume Bank)
-**store** | Merchant
+**bank** | Banco
+**gbank** | Banco de la Guild
+**pbank** | Banco de Mascota
+**cbank** | Banco de Ropas
+**store** | Comerciante
 **sstore** | Specialty Store
-**vg** | Vanguard Initiative Credit Merchant
+**vg** | Vanguard Initiative Comerciante de crédito
 
-**Note:** You need to visit the Highwatch after the first installation of the module, as well as after the release of a new patch of the game to update the NPC identifiers.
+**Nota:** Debe visitar Highwatch después de la primera instalación del módulo, así como después del lanzamiento de un nuevo parche del juego para actualizar los identificadores de NPC.

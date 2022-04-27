@@ -35,7 +35,7 @@ module.exports = function NpcSummoner(mod) {
 		zoneHw = event.zone === 7031;
 	});
 
-	mod.hook("S_SPAWN_NPC", 12, packet => {
+	mod.hook("S_SPAWN_NPC", 11, packet => {
 		if (zoneHw) {
 			const npc = Object.values(mod.settings.npc).find(e => e.templateId !== undefined && e.templateId === packet.templateId);
 

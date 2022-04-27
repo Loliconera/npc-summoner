@@ -1,14 +1,14 @@
 {
     "files": {
-        "README.md": "18bf09cf92eadb42820d8d172c293aed65ca055cfee519cd960e8ade9f9e6212",
-        "index.js": "9d5fd32d95978d97d882efa757c343b4d5f2f049b365cd4541ff89839bc36171",
-        "module.json": "0dd610430ea1eb46d05a7650bc1974616cc8842e90d498d3a7128fe61c5c6de5",
+        "README.md": "fa84bbbb56f8fe559a85ab5d519be863f88b8d35206193dd901c1477c4d3612b",
+        "index.js": "bae5aa93b0d616c694c4e031709b6d0f91635802ef03547eed231ea846dea4d5",
+        "module.json": "8d3b25a02409182a21040fecfe052b2927adcaa18a988f00a20eeeaef15d6b2b",
         "settings_migrator.js": "da402468235eade6a090bf1949a8fbcd1711a5af6eb1fb257ca512fe6edc7a00"
     },
     "defs": {
         "C_REQUEST_CONTRACT": 50,
         "S_LOAD_TOPO": 3,
         "S_NPC_MENU_SELECT": 1,
-        "S_SPAWN_NPC": 12
+        "S_SPAWN_NPC": 11
     }
 }
