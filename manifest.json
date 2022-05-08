@@ -1,14 +1,15 @@
 {
     "files": {
-        "README.md": "fa84bbbb56f8fe559a85ab5d519be863f88b8d35206193dd901c1477c4d3612b",
-        "index.js": "bae5aa93b0d616c694c4e031709b6d0f91635802ef03547eed231ea846dea4d5",
-        "module.json": "8d3b25a02409182a21040fecfe052b2927adcaa18a988f00a20eeeaef15d6b2b",
-        "settings_migrator.js": "da402468235eade6a090bf1949a8fbcd1711a5af6eb1fb257ca512fe6edc7a00"
+        "README.md": "f4c3285ba8cb3b760ccc4a49091b13f243bc0c021b28aba7dda0d297e1bdde03",
+        "index.js": "30f6cb173e1f97c6a0259815b7500b3216e58ebbdc20f3356f678613ed074a3b",
+        "module.json": "c9e098a7afb52f4b85a6ac59536a06709a3518cb8595b3e2c6cd0c3f233df8ba",
+        "settings_migrator.js": "b5e0675a2dfad88da4ce517fa2c8c66916133e7d380be9008b8268d2fe2baf00"
     },
     "defs": {
         "C_REQUEST_CONTRACT": 50,
-        "S_LOAD_TOPO": 3,
+        "S_DIALOG": 2,
         "S_NPC_MENU_SELECT": 1,
+        "S_REQUEST_CONTRACT": 1,
         "S_SPAWN_NPC": 11
     }
 }

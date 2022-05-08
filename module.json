@@ -4,12 +4,12 @@
     "description": "Convoca a cualquier NPC (comerciante, banco, corredor) desde cualquier lugar",
     "options": {
         "niceName": "NPC Summoner",
-        "settingsVersion": 2,
+        "settingsVersion": 3,
         "settingsFile": "config.json",
         "reloadable": true,
         "settingsMigrator": "settings_migrator.js"
     },
     "servers": ["https://raw.githubusercontent.com/Loliconera/npc-summoner/master/"],
     "disableAutoUpdate": false,
-    "version": "10/22/2021"
+    "version": "v92/v115"
 }

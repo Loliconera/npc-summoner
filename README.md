@@ -13,6 +13,7 @@ Toolbox(/8) | Descripción del comando
 **cbank** | Banco de Ropas
 **store** | Comerciante
 **sstore** | Specialty Store
+**bel** | Bellicarium Comerciante de crédito
 **vg** | Vanguard Initiative Comerciante de crédito
 
 **Nota:** Debe visitar Highwatch después de la primera instalación del módulo, así como después del lanzamiento de un nuevo parche del juego para actualizar los identificadores de NPC.
